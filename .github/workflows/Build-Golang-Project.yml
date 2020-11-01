@@ -1,8 +1,8 @@
 name: Build-Golang-Project
 on:
-  push:
-    branches:
-      - master
+  # push:
+  #  branches:
+  #   - master
     paths:
       - '.github/workflows/Build-Golang-Project.yml'
   schedule:
