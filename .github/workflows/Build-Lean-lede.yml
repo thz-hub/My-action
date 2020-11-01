@@ -1,4 +1,4 @@
-name: Build-Lean-lede
+name: 拓荒者Openwrt
 on:
   push:
     branches:
