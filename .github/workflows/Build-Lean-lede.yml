@@ -1,4 +1,4 @@
-name: 拓荒者Openwrt
+name: 拓荒者的Openwrt
 on:
   push:
     branches:
