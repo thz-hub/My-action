@@ -2,9 +2,9 @@ name: Build-and-Upload-Openwrt-x86_64
 
 on: 
 
-  push:
-    branches: 
-      - master
+  # push:
+  #  branches: 
+  #    - master
     paths:
       - 'openwrt/x86_64/.config'
       - '.github/workflows/B&U-Openwrt-original-x86_64.yml'
