@@ -1,9 +1,9 @@
 name: ssh-to-action
 
 on:
-  push:
-    branches:
-      - master
+  # push:
+  #   branches:
+  #    - master
     paths:
       - '.github/workflows/Use-SSH.yml'    
 jobs:
