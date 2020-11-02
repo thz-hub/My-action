@@ -9,11 +9,6 @@ on:
 #  schedule:
 #        - cron: 0 */4 * * *
 
-env:
-  UPLOAD_FIRMWARE: true
-  UPLOAD_COWTRANSFER: true
-  UPLOAD_WETRANSFER: true
-  UPLOAD_RELEASE: true
 
 jobs:
   MT7621:
